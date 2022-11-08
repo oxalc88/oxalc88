@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rolando Quispe</h1>
-<h3 align="center">A passionate full stack developer from Perú</h3>
+<h3>A former economist transitioning to a passionate full stack developer from Perú</h3>
 
 - 👨‍💻 All of my projects are available at [oxalc.me](oxalc.me)
 
