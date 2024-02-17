@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rolando Quispe</h1>
-<h3>A former economist and a full stack developer now</h3>
+<h3>A former economist and an AWS Certified Solutions Architect – Associate full stack developer</h3>
 
 - 👨‍💻 All of my projects are available at [oxalc.me](oxalc.me)
 
-- 💬 Ask me about **react, nodeJs and Express**
+- Check out my certifications [here](https://www.credly.com/users/rolando-quispe.c7f681ff)
 
-- 📫 Reach me at **rolando.oxalc@gmail.com**
+- 💬 Ask me about **react, nodeJs, Express and serverless on AWS**
+
+- 📫 Reach me at **rolando@oxalc.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
